@@ -10,7 +10,7 @@ Project Trinity – Revolutionizing athlete management in India with AI-driven p
 ✅ Coach-Athlete Dashboard – Weekly performance reports and real-time AI feedback.
 🛠️ Tech Stack
 
-    Frontend: React.js / Next.js
+    Frontend: React.js
 
     Backend: Node.js / Firebase
 
