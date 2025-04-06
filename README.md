@@ -1,27 +1,28 @@
-Athlete Management System 🚀
+# Athlete Management System 🚀  
 
-Project Trinity – Revolutionizing athlete management in India with AI-driven performance tracking, injury prevention, career planning, and stadium booking.
-🌟 Features
+**Project Trinity** – Revolutionizing athlete management in India with AI-driven performance tracking, injury prevention, career planning, and stadium booking.  
 
-✅ Google Fit Integration – Syncs health metrics (steps, heart rate, workouts) for AI-powered insights.
-✅ AI-Powered Injury Management – Tracks injuries, suggests recovery plans, and prevents future issues.
-✅ Career & Competition Tracking – Fetches events from Khelo India and other sources.
-✅ Stadium Booking System – Helps athletes secure training facilities easily.
-✅ Coach-Athlete Dashboard – Weekly performance reports and real-time AI feedback.
-🛠️ Tech Stack
+## 🌟 Features  
 
-    Frontend: React.js
+✅ **Google Fit Integration** – Syncs health metrics (steps, heart rate, workouts) for AI-powered insights.  
+✅ **AI-Powered Injury Management** – Tracks injuries, suggests recovery plans, and prevents future issues.  
+✅ **Career & Competition Tracking** – Fetches events from Khelo India and other sources.  
+✅ **Stadium Booking System** – Helps athletes secure training facilities easily.  
+✅ **Coach-Athlete Dashboard** – Weekly performance reports and real-time AI feedback.  
 
-    Backend: Node.js / Firebase
+## 🛠️ Tech Stack  
 
-    AI: Gemini API (for performance insights)
+- **Frontend**: React.js  
+- **Backend**: Node.js / Firebase  
+- **AI**: Gemini API (for performance insights)  
+- **Database**: Firebase Realtime DB / Firestore  
+- **APIs**: Google Fit, Khelo India  
 
-    Database: Firebase Realtime DB / Firestore
+## 🔧 Environment Setup  
 
-    APIs: Google Fit, Khelo India
+Create a `.env` file based on `.env.example`:  
 
-Create a .env file based on .env.example:
-
+```env
 GEMINI_API_KEY=your_api_key_here
 FIREBASE_API_KEY=your_firebase_key_here
 FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
